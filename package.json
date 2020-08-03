@@ -1,0 +1,22 @@
+{
+  "name": "caloriemateliquid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonyChops/CalorieMateLIQUID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonyChops/CalorieMateLIQUID/issues"
+  },
+  "homepage": "https://github.com/BonyChops/CalorieMateLIQUID#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
