@@ -6,6 +6,13 @@
 # これは何
 これです  
 https://twitter.com/BonyChops/status/1290242811212648450?s=20
+```
+const GetGoods = () => {
+    follow(this.account)
+    retweet(this.tweet)
+    wish()
+}
+```
 ## 使い方
 1. このレポジトリをクローンする  
 `git clone https://github.com/BonyChops/CalorieMateLIQUID.git`
